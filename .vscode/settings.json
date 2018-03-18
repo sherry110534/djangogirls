@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "${workspaceFolder}\\djangogirls_venv\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": false
+}
